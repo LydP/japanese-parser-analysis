@@ -1,0 +1,380 @@
+*** Conflicting Lemma Regions ***
+Number of conflicting lemma regions: 38
+
+Indices 0-4
+	Text: 'みなさん'
+		Span (0, 2):
+			SudachiPy: 'みな' → 'みな'
+			spaCy: 'みな' → 'みな'
+			MeCab: 'みな' → '皆'
+		Span (0, 4):
+			Janome: 'みなさん' → 'みなさん'
+		Span (2, 4):
+			SudachiPy: 'さん' → 'さん'
+			MeCab: 'さん' → 'さん'
+			spaCy: 'さん' → 'さん'
+
+Indices 7-17
+	Text: 'シャーロックホームズ'
+		Span (7, 10):
+			SudachiPy: 'シャー' → 'シャー'
+			MeCab: 'シャー' → 'シャー'
+			spaCy: 'シャー' → 'シャー'
+		Span (7, 17):
+			Janome: 'シャーロックホームズ' → 'シャーロックホームズ'
+		Span (10, 13):
+			SudachiPy: 'ロック' → 'ロック'
+			MeCab: 'ロック' → 'ロック'
+			spaCy: 'ロック' → 'ロック'
+		Span (13, 17):
+			SudachiPy: 'ホームズ' → 'ホームズ'
+			MeCab: 'ホームズ' → 'ホーム'
+			spaCy: 'ホームズ' → 'ホームズ'
+
+Indices 21-22
+	Text: 'い'
+		Span (21, 22):
+			MeCab: 'い' → '居る'
+			SudachiPy: 'い' → 'いる'
+			Janome: 'い' → 'いる'
+			spaCy: 'い' → 'いる'
+
+Indices 25-35
+	Text: 'シャーロックホームズ'
+		Span (25, 31):
+			MeCab: 'シャーロック' → 'シャーロック'
+			spaCy: 'シャーロック' → 'シャーロック'
+		Span (25, 35):
+			SudachiPy: 'シャーロックホームズ' → 'シャーロックホームズ'
+			Janome: 'シャーロックホームズ' → 'シャーロックホームズ'
+		Span (31, 35):
+			spaCy: 'ホームズ' → 'ホームズ'
+			MeCab: 'ホームズ' → 'ホームズ'
+
+Indices 38-40
+	Text: 'くる'
+		Span (38, 40):
+			spaCy: 'くる' → 'くる'
+			Janome: 'くる' → 'くる'
+			SudachiPy: 'くる' → 'くる'
+			MeCab: 'くる' → '来る'
+
+Indices 60-63
+	Text: '小説家'
+		Span (60, 62):
+			MeCab: '小説' → '小説'
+			spaCy: '小説' → '小説'
+			Janome: '小説' → '小説'
+		Span (60, 63):
+			SudachiPy: '小説家' → '小説家'
+		Span (62, 63):
+			spaCy: '家' → '家'
+			MeCab: '家' → '家'
+			Janome: '家' → '家'
+
+Indices 63-73
+	Text: 'アーサーコナンドイル'
+		Span (63, 73):
+			SudachiPy: 'アーサーコナンドイル' → 'アーサーコナンドイル'
+			spaCy: 'アーサーコナンドイル' → 'アーサーコナンドイル'
+			MeCab: 'アーサーコナンドイル' → 'None'
+		Span (63, 67):
+			Janome: 'アーサー' → 'アーサー'
+		Span (67, 70):
+			Janome: 'コナン' → 'コナン'
+		Span (70, 73):
+			Janome: 'ドイル' → 'ドイル'
+
+Indices 74-78
+	Text: '一八五九'
+		Span (74, 75):
+			Janome: '一' → '一'
+			MeCab: '一' → '一'
+		Span (74, 78):
+			SudachiPy: '一八五九' → '一八五九'
+			spaCy: '一八五九' → '一八五九'
+		Span (75, 76):
+			Janome: '八' → '八'
+			MeCab: '八' → '八'
+		Span (76, 77):
+			MeCab: '五' → '五'
+			Janome: '五' → '五'
+		Span (77, 78):
+			Janome: '九' → '九'
+			MeCab: '九' → '九'
+
+Indices 79-83
+	Text: '一九三〇'
+		Span (79, 80):
+			MeCab: '一' → '一'
+			Janome: '一' → '一'
+		Span (79, 83):
+			SudachiPy: '一九三〇' → '一九三〇'
+			spaCy: '一九三〇' → '一九三〇'
+		Span (80, 81):
+			MeCab: '九' → '九'
+			Janome: '九' → '九'
+		Span (81, 82):
+			MeCab: '三' → '三'
+			Janome: '三' → '三'
+		Span (82, 83):
+			Janome: '〇' → '〇'
+			MeCab: '〇' → '零'
+
+Indices 86-88
+	Text: 'よっ'
+		Span (86, 88):
+			SudachiPy: 'よっ' → 'よる'
+			MeCab: 'よっ' → '因る'
+			spaCy: 'よっ' → 'よる'
+
+Indices 101-103
+	Text: 'ある'
+		Span (101, 103):
+			MeCab: 'ある' → '有る'
+			SudachiPy: 'ある' → 'ある'
+			Janome: 'ある' → 'ある'
+			spaCy: 'ある' → 'ある'
+
+Indices 116-118
+	Text: 'いる'
+		Span (116, 118):
+			Janome: 'いる' → 'いる'
+			SudachiPy: 'いる' → 'いる'
+			MeCab: 'いる' → '居る'
+			spaCy: 'いる' → 'いる'
+
+Indices 119-121
+	Text: 'たち'
+		Span (119, 121):
+			SudachiPy: 'たち' → 'たち'
+			MeCab: 'たち' → '達'
+			spaCy: 'たち' → 'たち'
+			Janome: 'たち' → 'たち'
+
+Indices 125-126
+	Text: 'き'
+		Span (125, 126):
+			MeCab: 'き' → '来る'
+			SudachiPy: 'き' → 'くる'
+			Janome: 'き' → 'くる'
+			spaCy: 'き' → 'くる'
+
+Indices 134-136
+	Text: 'その'
+		Span (134, 136):
+			MeCab: 'その' → '其の'
+			SudachiPy: 'その' → 'その'
+			spaCy: 'その' → 'その'
+			Janome: 'その' → 'その'
+
+Indices 137-139
+	Text: 'たち'
+		Span (137, 139):
+			spaCy: 'たち' → 'たち'
+			MeCab: 'たち' → '達'
+			Janome: 'たち' → 'たち'
+			SudachiPy: 'たち' → 'たち'
+
+Indices 156-159
+	Text: '出かけ'
+		Span (156, 159):
+			Janome: '出かけ' → '出かける'
+			MeCab: '出かけ' → '出掛ける'
+			SudachiPy: '出かけ' → '出かける'
+		Span (156, 157):
+			spaCy: '出' → '出る'
+		Span (157, 159):
+			spaCy: 'かけ' → 'かける'
+
+Indices 178-181
+	Text: 'もらい'
+		Span (178, 181):
+			Janome: 'もらい' → 'もらう'
+			spaCy: 'もらい' → 'もらう'
+			MeCab: 'もらい' → '貰う'
+			SudachiPy: 'もらい' → 'もらう'
+
+Indices 185-189
+	Text: 'どんなに'
+		Span (185, 188):
+			SudachiPy: 'どんな' → 'どんな'
+			MeCab: 'どんな' → 'どんな'
+			spaCy: 'どんな' → 'どんな'
+		Span (185, 189):
+			Janome: 'どんなに' → 'どんなに'
+
+Indices 198-199
+	Text: 'し'
+		Span (198, 199):
+			SudachiPy: 'し' → 'する'
+			Janome: 'し' → 'する'
+			MeCab: 'し' → '為る'
+			spaCy: 'し' → 'する'
+
+Indices 200-203
+	Text: 'しまい'
+		Span (200, 203):
+			Janome: 'しまい' → 'しまう'
+			MeCab: 'しまい' → '仕舞う'
+			SudachiPy: 'しまい' → 'しまう'
+			spaCy: 'しまい' → 'しまう'
+
+Indices 213-216
+	Text: '世界中'
+		Span (213, 215):
+			spaCy: '世界' → '世界'
+			MeCab: '世界' → '世界'
+		Span (213, 216):
+			Janome: '世界中' → '世界中'
+			SudachiPy: '世界中' → '世界中'
+		Span (215, 216):
+			MeCab: '中' → '中'
+			spaCy: '中' → '中'
+
+Indices 217-219
+	Text: '愛さ'
+		Span (217, 219):
+			SudachiPy: '愛さ' → '愛す'
+			MeCab: '愛さ' → '愛する'
+			spaCy: '愛さ' → '愛す'
+			Janome: '愛さ' → '愛す'
+
+Indices 223-227
+	Text: 'たくさん'
+		Span (223, 227):
+			MeCab: 'たくさん' → '沢山'
+			SudachiPy: 'たくさん' → 'たくさん'
+			spaCy: 'たくさん' → 'たくさん'
+			Janome: 'たくさん' → 'たくさん'
+
+Indices 234-235
+	Text: 'い'
+		Span (234, 235):
+			spaCy: 'い' → 'いる'
+			MeCab: 'い' → '居る'
+			SudachiPy: 'い' → 'いる'
+			Janome: 'い' → 'いる'
+
+Indices 238-240
+	Text: 'この'
+		Span (238, 240):
+			SudachiPy: 'この' → 'この'
+			spaCy: 'この' → 'この'
+			MeCab: 'この' → '此の'
+			Janome: 'この' → 'この'
+
+Indices 241-244
+	Text: 'まだら'
+		Span (241, 244):
+			spaCy: 'まだら' → 'まだら'
+			SudachiPy: 'まだら' → 'まだら'
+			MeCab: 'まだら' → '真鱈'
+		Span (241, 243):
+			Janome: 'まだ' → 'まだ'
+		Span (243, 244):
+			Janome: 'ら' → 'ら'
+
+Indices 249-251
+	Text: '六十'
+		Span (249, 250):
+			Janome: '六' → '六'
+		Span (249, 251):
+			SudachiPy: '六十' → '六十'
+			MeCab: '六十' → '六十'
+			spaCy: '六十' → '六十'
+		Span (250, 251):
+			Janome: '十' → '十'
+
+Indices 251-253
+	Text: 'ある'
+		Span (251, 253):
+			MeCab: 'ある' → '有る'
+			SudachiPy: 'ある' → 'ある'
+			spaCy: 'ある' → 'ある'
+			Janome: 'ある' → 'ある'
+
+Indices 264-267
+	Text: 'とても'
+		Span (264, 267):
+			Janome: 'とても' → 'とても'
+			MeCab: 'とても' → '迚も'
+			SudachiPy: 'とても' → 'とても'
+			spaCy: 'とても' → 'とても'
+
+Indices 270-272
+	Text: 'ある'
+		Span (270, 272):
+			spaCy: 'ある' → 'ある'
+			MeCab: 'ある' → '有る'
+			Janome: 'ある' → 'ある'
+			SudachiPy: 'ある' → 'ある'
+
+Indices 297-300
+	Text: 'にほん'
+		Span (297, 300):
+			spaCy: 'にほん' → 'にほん'
+			SudachiPy: 'にほん' → 'にほん'
+			MeCab: 'にほん' → '日本'
+		Span (298, 300):
+			Janome: 'ほん' → 'ほる'
+
+Indices 303-307
+	Text: 'ブックス'
+		Span (303, 307):
+			spaCy: 'ブックス' → 'ブックス'
+			SudachiPy: 'ブックス' → 'ブックス'
+			Janome: 'ブックス' → 'ブックス'
+			MeCab: 'ブックス' → 'ブック'
+
+Indices 307-311
+	Text: 'vol．'
+		Span (307, 311):
+			SudachiPy: 'vol．' → 'Vol.'
+			spaCy: 'vol．' → 'Vol.'
+		Span (307, 310):
+			Janome: 'vol' → 'vol'
+			MeCab: 'vol' → 'None'
+		Span (310, 311):
+			MeCab: '．' → '．'
+
+Indices 311-312
+	Text: '６'
+		Span (311, 312):
+			Janome: '６' → '６'
+			spaCy: '６' → '6'
+			MeCab: '６' → 'None'
+			SudachiPy: '６' → '6'
+
+Indices 314-319
+	Text: '大修館書店'
+		Span (314, 316):
+			spaCy: '大修' → '大修'
+			SudachiPy: '大修' → '大修'
+			MeCab: '大修' → '大修'
+		Span (314, 319):
+			Janome: '大修館書店' → '大修館書店'
+		Span (316, 317):
+			MeCab: '館' → '館'
+			SudachiPy: '館' → '館'
+			spaCy: '館' → '館'
+		Span (317, 319):
+			MeCab: '書店' → '書店'
+			SudachiPy: '書店' → '書店'
+			spaCy: '書店' → '書店'
+
+Indices 324-325
+	Text: 'さ'
+		Span (324, 325):
+			SudachiPy: 'さ' → 'する'
+			Janome: 'さ' → 'する'
+			MeCab: 'さ' → '為る'
+			spaCy: 'さ' → 'する'
+
+Indices 327-328
+	Text: 'い'
+		Span (327, 328):
+			SudachiPy: 'い' → 'いる'
+			Janome: 'い' → 'いる'
+			MeCab: 'い' → '居る'
+			spaCy: 'い' → 'いる'
