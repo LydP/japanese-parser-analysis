@@ -1,0 +1,371 @@
+*** Conflicting Lemma Regions ***
+Number of conflicting lemma regions: 39
+
+Indices 2-4
+	Text: '工藤'
+		Span (2, 4):
+			SudachiPy: '工藤' → '工藤'
+			MeCab: '工藤' → 'クドウ'
+			spaCy: '工藤' → '工藤'
+			Janome: '工藤' → '工藤'
+
+Indices 5-6
+	Text: '拓'
+		Span (5, 6):
+			MeCab: '拓' → 'タク'
+			Janome: '拓' → '拓'
+			spaCy: '拓' → '拓'
+			SudachiPy: '拓' → '拓'
+
+Indices 7-10
+	Text: '具体的'
+		Span (7, 9):
+			Janome: '具体' → '具体'
+			spaCy: '具体' → '具体'
+			MeCab: '具体' → '具体'
+		Span (7, 10):
+			SudachiPy: '具体的' → '具体的'
+		Span (9, 10):
+			spaCy: '的' → '的'
+			Janome: '的' → '的'
+			MeCab: '的' → '的'
+
+Indices 22-25
+	Text: '形態素'
+		Span (22, 24):
+			spaCy: '形態' → '形態'
+			MeCab: '形態' → '形態'
+		Span (22, 25):
+			SudachiPy: '形態素' → '形態素'
+			Janome: '形態素' → '形態素'
+		Span (24, 25):
+			MeCab: '素' → '素'
+			spaCy: '素' → '素'
+
+Indices 31-36
+	Text: 'MeCab'
+		Span (31, 36):
+			SudachiPy: 'MeCab' → 'mecab'
+			spaCy: 'MeCab' → 'mecab'
+			Janome: 'MeCab' → 'MeCab'
+			MeCab: 'MeCab' → 'None'
+
+Indices 39-40
+	Text: 'し'
+		Span (39, 40):
+			spaCy: 'し' → 'する'
+			MeCab: 'し' → '為る'
+			SudachiPy: 'し' → 'する'
+			Janome: 'し' → 'する'
+
+Indices 48-50
+	Text: 'おい'
+		Span (48, 50):
+			SudachiPy: 'おい' → 'おく'
+			spaCy: 'おい' → 'おく'
+			MeCab: 'おい' → '於く'
+
+Indices 62-64
+	Text: 'ある'
+		Span (62, 64):
+			spaCy: 'ある' → 'ある'
+			SudachiPy: 'ある' → 'ある'
+			MeCab: 'ある' → '有る'
+
+Indices 65-68
+	Text: '形態素'
+		Span (65, 68):
+			SudachiPy: '形態素' → '形態素'
+			Janome: '形態素' → '形態素'
+		Span (65, 67):
+			spaCy: '形態' → '形態'
+			MeCab: '形態' → '形態'
+		Span (67, 68):
+			spaCy: '素' → '素'
+			MeCab: '素' → '素'
+
+Indices 79-82
+	Text: '技術者'
+		Span (79, 82):
+			SudachiPy: '技術者' → '技術者'
+		Span (79, 81):
+			Janome: '技術' → '技術'
+			spaCy: '技術' → '技術'
+			MeCab: '技術' → '技術'
+		Span (81, 82):
+			spaCy: '者' → '者'
+			MeCab: '者' → '者'
+			Janome: '者' → '者'
+
+Indices 85-87
+	Text: 'その'
+		Span (85, 87):
+			spaCy: 'その' → 'その'
+			Janome: 'その' → 'その'
+			MeCab: 'その' → '其の'
+			SudachiPy: 'その' → 'その'
+
+Indices 99-102
+	Text: '体系的'
+		Span (99, 101):
+			spaCy: '体系' → '体系'
+			Janome: '体系' → '体系'
+			MeCab: '体系' → '体系'
+		Span (99, 102):
+			SudachiPy: '体系的' → '体系的'
+		Span (101, 102):
+			MeCab: '的' → '的'
+			spaCy: '的' → '的'
+			Janome: '的' → '的'
+
+Indices 105-107
+	Text: 'する'
+		Span (105, 107):
+			SudachiPy: 'する' → 'する'
+			Janome: 'する' → 'する'
+			spaCy: 'する' → 'する'
+			MeCab: 'する' → '為る'
+
+Indices 111-114
+	Text: '高速化'
+		Span (111, 113):
+			spaCy: '高速' → '高速'
+			Janome: '高速' → '高速'
+			MeCab: '高速' → '高速'
+		Span (111, 114):
+			SudachiPy: '高速化' → '高速化'
+		Span (113, 114):
+			MeCab: '化' → '化'
+			Janome: '化' → '化'
+			spaCy: '化' → '化'
+
+Indices 126-128
+	Text: 'ある'
+		Span (126, 128):
+			SudachiPy: 'ある' → 'ある'
+			MeCab: 'ある' → '有る'
+			spaCy: 'ある' → 'ある'
+
+Indices 151-153
+	Text: 'いっ'
+		Span (151, 153):
+			MeCab: 'いっ' → '言う'
+			SudachiPy: 'いっ' → 'いう'
+			spaCy: 'いっ' → 'いう'
+
+Indices 154-157
+	Text: '形態素'
+		Span (154, 157):
+			Janome: '形態素' → '形態素'
+			SudachiPy: '形態素' → '形態素'
+		Span (154, 156):
+			MeCab: '形態' → '形態'
+			spaCy: '形態' → '形態'
+		Span (156, 157):
+			MeCab: '素' → '素'
+			spaCy: '素' → '素'
+
+Indices 161-163
+	Text: '外せ'
+		Span (161, 163):
+			SudachiPy: '外せ' → '外せる'
+			spaCy: '外せ' → '外せる'
+			MeCab: '外せ' → '外す'
+			Janome: '外せ' → '外せる'
+
+Indices 175-176
+	Text: 'し'
+		Span (175, 176):
+			spaCy: 'し' → 'する'
+			SudachiPy: 'し' → 'する'
+			Janome: 'し' → 'する'
+			MeCab: 'し' → '為る'
+
+Indices 177-179
+	Text: 'いる'
+		Span (177, 179):
+			SudachiPy: 'いる' → 'いる'
+			MeCab: 'いる' → '居る'
+			spaCy: 'いる' → 'いる'
+			Janome: 'いる' → 'いる'
+
+Indices 194-202
+	Text: 'ブラックボックス'
+		Span (194, 202):
+			Janome: 'ブラックボックス' → 'ブラックボックス'
+			SudachiPy: 'ブラックボックス' → 'ブラックボックス'
+		Span (194, 198):
+			spaCy: 'ブラック' → 'ブラック'
+			MeCab: 'ブラック' → 'ブラック'
+		Span (198, 202):
+			spaCy: 'ボックス' → 'ボックス'
+			MeCab: 'ボックス' → 'ボックス'
+
+Indices 204-205
+	Text: 'し'
+		Span (204, 205):
+			SudachiPy: 'し' → 'する'
+			spaCy: 'し' → 'する'
+			MeCab: 'し' → '為る'
+
+Indices 209-211
+	Text: 'いる'
+		Span (209, 211):
+			SudachiPy: 'いる' → 'いる'
+			spaCy: 'いる' → 'いる'
+			Janome: 'いる' → 'いる'
+			MeCab: 'いる' → '居る'
+
+Indices 218-219
+	Text: 'し'
+		Span (218, 219):
+			Janome: 'し' → 'する'
+			spaCy: 'し' → 'する'
+			SudachiPy: 'し' → 'する'
+			MeCab: 'し' → '為る'
+
+Indices 220-222
+	Text: 'うえ'
+		Span (220, 222):
+			spaCy: 'うえ' → 'うえ'
+			MeCab: 'うえ' → '上'
+			SudachiPy: 'うえ' → 'うえ'
+			Janome: 'うえ' → 'うえ'
+
+Indices 228-231
+	Text: 'できる'
+		Span (228, 231):
+			MeCab: 'できる' → '出来る'
+			spaCy: 'できる' → 'できる'
+			SudachiPy: 'できる' → 'できる'
+			Janome: 'できる' → 'できる'
+
+Indices 234-236
+	Text: 'でき'
+		Span (234, 236):
+			SudachiPy: 'でき' → 'できる'
+			spaCy: 'でき' → 'できる'
+			MeCab: 'でき' → '出来る'
+			Janome: 'でき' → 'できる'
+
+Indices 237-241
+	Text: 'ひいては'
+		Span (237, 241):
+			SudachiPy: 'ひいては' → 'ひいては'
+			spaCy: 'ひいては' → 'ひいては'
+			Janome: 'ひいては' → 'ひいては'
+			MeCab: 'ひいては' → '延いては'
+
+Indices 250-254
+	Text: '目指せる'
+		Span (250, 251):
+			Janome: '目' → '目'
+		Span (250, 254):
+			MeCab: '目指せる' → '目指す'
+			SudachiPy: '目指せる' → '目指せる'
+			spaCy: '目指せる' → '目指せる'
+		Span (251, 254):
+			Janome: '指せる' → '指せる'
+
+Indices 254-256
+	Text: 'よう'
+		Span (254, 256):
+			spaCy: 'よう' → 'よう'
+			MeCab: 'よう' → '様'
+			Janome: 'よう' → 'よう'
+			SudachiPy: 'よう' → 'よう'
+
+Indices 257-259
+	Text: 'なる'
+		Span (257, 259):
+			Janome: 'なる' → 'なる'
+			SudachiPy: 'なる' → 'なる'
+			spaCy: 'なる' → 'なる'
+			MeCab: 'なる' → '成る'
+
+Indices 260-261
+	Text: 'C'
+		Span (260, 261):
+			spaCy: 'C' → 'c'
+			MeCab: 'C' → 'None'
+			SudachiPy: 'C' → 'c'
+			Janome: 'C' → 'C'
+
+Indices 263-265
+	Text: '11'
+		Span (263, 265):
+			spaCy: '11' → '11'
+			SudachiPy: '11' → '11'
+			Janome: '11' → '11'
+			MeCab: '11' → 'None'
+
+Indices 269-272
+	Text: '具体的'
+		Span (269, 271):
+			MeCab: '具体' → '具体'
+			spaCy: '具体' → '具体'
+			Janome: '具体' → '具体'
+		Span (269, 272):
+			SudachiPy: '具体的' → '具体的'
+		Span (271, 272):
+			MeCab: '的' → '的'
+			spaCy: '的' → '的'
+			Janome: '的' → '的'
+
+Indices 281-283
+	Text: 'AI'
+		Span (281, 283):
+			spaCy: 'AI' → 'AI'
+			MeCab: 'AI' → 'None'
+			Janome: 'AI' → 'AI'
+			SudachiPy: 'AI' → 'AI'
+
+Indices 284-290
+	Text: '自然言語処理'
+		Span (284, 290):
+			SudachiPy: '自然言語処理' → '自然言語処理'
+		Span (284, 286):
+			Janome: '自然' → '自然'
+			MeCab: '自然' → '自然'
+			spaCy: '自然' → '自然'
+		Span (286, 288):
+			spaCy: '言語' → '言語'
+			Janome: '言語' → '言語'
+			MeCab: '言語' → '言語'
+		Span (288, 290):
+			Janome: '処理' → '処理'
+			spaCy: '処理' → '処理'
+			MeCab: '処理' → '処理'
+
+Indices 293-296
+	Text: '技術者'
+		Span (293, 295):
+			spaCy: '技術' → '技術'
+			MeCab: '技術' → '技術'
+			Janome: '技術' → '技術'
+		Span (293, 296):
+			SudachiPy: '技術者' → '技術者'
+		Span (295, 296):
+			MeCab: '者' → '者'
+			Janome: '者' → '者'
+			spaCy: '者' → '者'
+
+Indices 297-300
+	Text: '研究者'
+		Span (297, 300):
+			SudachiPy: '研究者' → '研究者'
+		Span (297, 299):
+			MeCab: '研究' → '研究'
+			spaCy: '研究' → '研究'
+			Janome: '研究' → '研究'
+		Span (299, 300):
+			spaCy: '者' → '者'
+			MeCab: '者' → '者'
+			Janome: '者' → '者'
+
+Indices 307-309
+	Text: 'ある'
+		Span (307, 309):
+			MeCab: 'ある' → '有る'
+			spaCy: 'ある' → 'ある'
+			SudachiPy: 'ある' → 'ある'

@@ -1,0 +1,169 @@
+*** Overlapping Regions ***
+Number of overlapping regions: 13
+
+Indices 7-10
+	Text: '具体的'
+		Span (7, 9):
+			spaCy: 具体
+			MeCab: 具体
+			Janome: 具体
+		Span (7, 10):
+			SudachiPy: 具体的
+		Span (9, 10):
+			spaCy: 的
+			MeCab: 的
+			Janome: 的
+
+Indices 22-25
+	Text: '形態素'
+		Span (22, 24):
+			spaCy: 形態
+			MeCab: 形態
+		Span (22, 25):
+			SudachiPy: 形態素
+			Janome: 形態素
+		Span (24, 25):
+			MeCab: 素
+			spaCy: 素
+
+Indices 65-68
+	Text: '形態素'
+		Span (65, 67):
+			MeCab: 形態
+			spaCy: 形態
+		Span (65, 68):
+			SudachiPy: 形態素
+			Janome: 形態素
+		Span (67, 68):
+			spaCy: 素
+			MeCab: 素
+
+Indices 79-82
+	Text: '技術者'
+		Span (79, 81):
+			spaCy: 技術
+			MeCab: 技術
+			Janome: 技術
+		Span (79, 82):
+			SudachiPy: 技術者
+		Span (81, 82):
+			spaCy: 者
+			MeCab: 者
+			Janome: 者
+
+Indices 99-102
+	Text: '体系的'
+		Span (99, 101):
+			spaCy: 体系
+			MeCab: 体系
+			Janome: 体系
+		Span (99, 102):
+			SudachiPy: 体系的
+		Span (101, 102):
+			spaCy: 的
+			MeCab: 的
+			Janome: 的
+
+Indices 111-114
+	Text: '高速化'
+		Span (111, 113):
+			MeCab: 高速
+			Janome: 高速
+			spaCy: 高速
+		Span (111, 114):
+			SudachiPy: 高速化
+		Span (113, 114):
+			MeCab: 化
+			Janome: 化
+			spaCy: 化
+
+Indices 154-157
+	Text: '形態素'
+		Span (154, 156):
+			MeCab: 形態
+			spaCy: 形態
+		Span (154, 157):
+			SudachiPy: 形態素
+			Janome: 形態素
+		Span (156, 157):
+			MeCab: 素
+			spaCy: 素
+
+Indices 194-202
+	Text: 'ブラックボックス'
+		Span (194, 198):
+			spaCy: ブラック
+			MeCab: ブラック
+		Span (194, 202):
+			Janome: ブラックボックス
+			SudachiPy: ブラックボックス
+		Span (198, 202):
+			MeCab: ボックス
+			spaCy: ボックス
+
+Indices 250-254
+	Text: '目指せる'
+		Span (250, 251):
+			Janome: 目
+		Span (250, 254):
+			SudachiPy: 目指せる
+			MeCab: 目指せる
+			spaCy: 目指せる
+		Span (251, 254):
+			Janome: 指せる
+
+Indices 269-272
+	Text: '具体的'
+		Span (269, 271):
+			MeCab: 具体
+			Janome: 具体
+			spaCy: 具体
+		Span (269, 272):
+			SudachiPy: 具体的
+		Span (271, 272):
+			spaCy: 的
+			MeCab: 的
+			Janome: 的
+
+Indices 284-290
+	Text: '自然言語処理'
+		Span (284, 286):
+			spaCy: 自然
+			MeCab: 自然
+			Janome: 自然
+		Span (284, 290):
+			SudachiPy: 自然言語処理
+		Span (286, 288):
+			MeCab: 言語
+			Janome: 言語
+			spaCy: 言語
+		Span (288, 290):
+			spaCy: 処理
+			MeCab: 処理
+			Janome: 処理
+
+Indices 293-296
+	Text: '技術者'
+		Span (293, 295):
+			MeCab: 技術
+			Janome: 技術
+			spaCy: 技術
+		Span (293, 296):
+			SudachiPy: 技術者
+		Span (295, 296):
+			Janome: 者
+			spaCy: 者
+			MeCab: 者
+
+Indices 297-300
+	Text: '研究者'
+		Span (297, 299):
+			MeCab: 研究
+			Janome: 研究
+			spaCy: 研究
+		Span (297, 300):
+			SudachiPy: 研究者
+		Span (299, 300):
+			spaCy: 者
+			MeCab: 者
+			Janome: 者

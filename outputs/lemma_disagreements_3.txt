@@ -1,0 +1,408 @@
+*** Conflicting Lemma Regions ***
+Number of conflicting lemma regions: 43
+
+Indices 0-2
+	Text: '12'
+		Span (0, 2):
+			SudachiPy: '12' → '12'
+			spaCy: '12' → '12'
+			Janome: '12' → '12'
+			MeCab: '12' → 'None'
+
+Indices 5-9
+	Text: '和歌山県'
+		Span (5, 8):
+			MeCab: '和歌山' → 'ワカヤマ'
+			spaCy: '和歌山' → '和歌山'
+			Janome: '和歌山' → '和歌山'
+		Span (5, 9):
+			SudachiPy: '和歌山県' → '和歌山県'
+		Span (8, 9):
+			spaCy: '県' → '県'
+			Janome: '県' → '県'
+			MeCab: '県' → '県'
+
+Indices 10-12
+	Text: '沖合'
+		Span (10, 12):
+			spaCy: '沖合' → '沖合'
+			Janome: '沖合' → '沖合'
+			MeCab: '沖合' → '沖合い'
+			SudachiPy: '沖合' → '沖合'
+
+Indices 15-16
+	Text: 'し'
+		Span (15, 16):
+			MeCab: 'し' → '為る'
+			SudachiPy: 'し' → 'する'
+			spaCy: 'し' → 'する'
+			Janome: 'し' → 'する'
+
+Indices 17-18
+	Text: 'い'
+		Span (17, 18):
+			SudachiPy: 'い' → 'いる'
+			spaCy: 'い' → 'いる'
+			MeCab: 'い' → '居る'
+			Janome: 'い' → 'いる'
+
+Indices 33-36
+	Text: '旅客機'
+		Span (33, 36):
+			SudachiPy: '旅客機' → '旅客機'
+			Janome: '旅客機' → '旅客機'
+		Span (33, 35):
+			spaCy: '旅客' → '旅客'
+			MeCab: '旅客' → '旅客'
+		Span (35, 36):
+			MeCab: '機' → '機'
+			spaCy: '機' → '機'
+
+Indices 37-41
+	Text: '関西空港'
+		Span (37, 39):
+			MeCab: '関西' → 'カンサイ'
+			spaCy: '関西' → '関西'
+			Janome: '関西' → '関西'
+		Span (37, 41):
+			SudachiPy: '関西空港' → '関西空港'
+		Span (39, 41):
+			Janome: '空港' → '空港'
+			spaCy: '空港' → '空港'
+			MeCab: '空港' → '空港'
+
+Indices 46-47
+	Text: 'し'
+		Span (46, 47):
+			SudachiPy: 'し' → 'する'
+			MeCab: 'し' → '為る'
+			spaCy: 'し' → 'する'
+			Janome: 'し' → 'する'
+
+Indices 67-69
+	Text: 'する'
+		Span (67, 69):
+			MeCab: 'する' → '為る'
+			SudachiPy: 'する' → 'する'
+			spaCy: 'する' → 'する'
+			Janome: 'する' → 'する'
+
+Indices 74-76
+	Text: 'あり'
+		Span (74, 76):
+			SudachiPy: 'あり' → 'ある'
+			Janome: 'あり' → 'ある'
+			spaCy: 'あり' → 'ある'
+			MeCab: 'あり' → '有る'
+
+Indices 77-78
+	Text: '5'
+		Span (77, 78):
+			Janome: '5' → '5'
+			MeCab: '5' → 'None'
+			SudachiPy: '5' → '5'
+			spaCy: '5' → '5'
+
+Indices 82-84
+	Text: 'けが'
+		Span (82, 84):
+			MeCab: 'けが' → '怪我'
+			spaCy: 'けが' → 'けが'
+			SudachiPy: 'けが' → 'けが'
+			Janome: 'けが' → 'けが'
+
+Indices 85-86
+	Text: 'し'
+		Span (85, 86):
+			SudachiPy: 'し' → 'する'
+			spaCy: 'し' → 'する'
+			Janome: 'し' → 'する'
+			MeCab: 'し' → '為る'
+
+Indices 101-105
+	Text: '知らせる'
+		Span (101, 103):
+			SudachiPy: '知ら' → '知る'
+			spaCy: '知ら' → '知る'
+			MeCab: '知ら' → '知る'
+		Span (101, 105):
+			Janome: '知らせる' → '知らせる'
+
+Indices 111-113
+	Text: 'いう'
+		Span (111, 113):
+			MeCab: 'いう' → '言う'
+			SudachiPy: 'いう' → 'いう'
+			spaCy: 'いう' → 'いう'
+
+Indices 113-115
+	Text: 'こと'
+		Span (113, 115):
+			Janome: 'こと' → 'こと'
+			MeCab: 'こと' → '事'
+			spaCy: 'こと' → 'こと'
+			SudachiPy: 'こと' → 'こと'
+
+Indices 119-126
+	Text: '運輸安全委員会'
+		Span (119, 121):
+			spaCy: '運輸' → '運輸'
+			MeCab: '運輸' → '運輸'
+			Janome: '運輸' → '運輸'
+		Span (119, 126):
+			SudachiPy: '運輸安全委員会' → '運輸安全委員会'
+		Span (121, 123):
+			spaCy: '安全' → '安全'
+			MeCab: '安全' → '安全'
+			Janome: '安全' → '安全'
+		Span (123, 125):
+			spaCy: '委員' → '委員'
+			Janome: '委員' → '委員'
+			MeCab: '委員' → '委員'
+		Span (125, 126):
+			MeCab: '会' → '会'
+			spaCy: '会' → '会'
+			Janome: '会' → '会'
+
+Indices 140-142
+	Text: 'こと'
+		Span (140, 142):
+			SudachiPy: 'こと' → 'こと'
+			spaCy: 'こと' → 'こと'
+			Janome: 'こと' → 'こと'
+			MeCab: 'こと' → '事'
+
+Indices 143-144
+	Text: 'し'
+		Span (143, 144):
+			spaCy: 'し' → 'する'
+			MeCab: 'し' → '為る'
+			Janome: 'し' → 'する'
+			SudachiPy: 'し' → 'する'
+
+Indices 145-146
+	Text: 'い'
+		Span (145, 146):
+			Janome: 'い' → 'いる'
+			MeCab: 'い' → '居る'
+			spaCy: 'い' → 'いる'
+			SudachiPy: 'い' → 'いる'
+
+Indices 149-154
+	Text: '国土交通省'
+		Span (149, 151):
+			MeCab: '国土' → '国土'
+			Janome: '国土' → '国土'
+			spaCy: '国土' → '国土'
+		Span (149, 154):
+			SudachiPy: '国土交通省' → '国土交通省'
+		Span (151, 153):
+			MeCab: '交通' → '交通'
+			spaCy: '交通' → '交通'
+		Span (151, 154):
+			Janome: '交通省' → '交通省'
+		Span (153, 154):
+			MeCab: '省' → '省'
+			spaCy: '省' → '省'
+
+Indices 154-158
+	Text: '関西空港'
+		Span (154, 156):
+			spaCy: '関西' → '関西'
+			Janome: '関西' → '関西'
+			MeCab: '関西' → 'カンサイ'
+		Span (154, 158):
+			SudachiPy: '関西空港' → '関西空港'
+		Span (156, 158):
+			Janome: '空港' → '空港'
+			spaCy: '空港' → '空港'
+			MeCab: '空港' → '空港'
+
+Indices 158-161
+	Text: '事務所'
+		Span (158, 160):
+			MeCab: '事務' → '事務'
+			spaCy: '事務' → '事務'
+		Span (158, 161):
+			SudachiPy: '事務所' → '事務所'
+			Janome: '事務所' → '事務所'
+		Span (160, 161):
+			spaCy: '所' → '所'
+			MeCab: '所' → '所'
+
+Indices 162-164
+	Text: 'より'
+		Span (162, 164):
+			Janome: 'より' → 'よる'
+			spaCy: 'より' → 'よる'
+			SudachiPy: 'より' → 'よる'
+			MeCab: 'より' → '因る'
+
+Indices 168-170
+	Text: '12'
+		Span (168, 170):
+			Janome: '12' → '12'
+			spaCy: '12' → '12'
+			MeCab: '12' → 'None'
+			SudachiPy: '12' → '12'
+
+Indices 173-174
+	Text: '6'
+		Span (173, 174):
+			spaCy: '6' → '6'
+			MeCab: '6' → 'None'
+			Janome: '6' → '6'
+			SudachiPy: '6' → '6'
+
+Indices 174-176
+	Text: '時半'
+		Span (174, 175):
+			MeCab: '時' → '時'
+			spaCy: '時' → '時'
+		Span (174, 176):
+			SudachiPy: '時半' → '時半'
+			Janome: '時半' → '時半'
+		Span (175, 176):
+			spaCy: '半' → '半'
+			MeCab: '半' → '半'
+
+Indices 176-178
+	Text: 'ごろ'
+		Span (176, 178):
+			MeCab: 'ごろ' → '頃'
+			spaCy: 'ごろ' → 'ごろ'
+			SudachiPy: 'ごろ' → 'ごろ'
+			Janome: 'ごろ' → 'ごろ'
+
+Indices 179-181
+	Text: '成田'
+		Span (179, 181):
+			spaCy: '成田' → '成田'
+			SudachiPy: '成田' → '成田'
+			Janome: '成田' → '成田'
+			MeCab: '成田' → 'ナリタ'
+
+Indices 196-197
+	Text: 'い'
+		Span (196, 197):
+			Janome: 'い' → 'いる'
+			SudachiPy: 'い' → 'いる'
+			MeCab: 'い' → '居る'
+			spaCy: 'い' → 'いる'
+
+Indices 211-213
+	Text: '32'
+		Span (211, 213):
+			spaCy: '32' → '32'
+			Janome: '32' → '32'
+			MeCab: '32' → 'None'
+			SudachiPy: '32' → '32'
+
+Indices 220-223
+	Text: '737'
+		Span (220, 223):
+			Janome: '737' → '737'
+			MeCab: '737' → 'None'
+			SudachiPy: '737' → '737'
+			spaCy: '737' → '737'
+
+Indices 226-230
+	Text: '和歌山県'
+		Span (226, 229):
+			spaCy: '和歌山' → '和歌山'
+			Janome: '和歌山' → '和歌山'
+			MeCab: '和歌山' → 'ワカヤマ'
+		Span (226, 230):
+			SudachiPy: '和歌山県' → '和歌山県'
+		Span (229, 230):
+			MeCab: '県' → '県'
+			Janome: '県' → '県'
+			spaCy: '県' → '県'
+
+Indices 231-233
+	Text: '沖合'
+		Span (231, 233):
+			SudachiPy: '沖合' → '沖合'
+			spaCy: '沖合' → '沖合'
+			MeCab: '沖合' → '沖合い'
+			Janome: '沖合' → '沖合'
+
+Indices 233-236
+	Text: 'およそ'
+		Span (233, 236):
+			SudachiPy: 'およそ' → 'およそ'
+			MeCab: 'およそ' → '凡そ'
+			spaCy: 'およそ' → 'およそ'
+
+Indices 236-239
+	Text: '200'
+		Span (236, 239):
+			Janome: '200' → '200'
+			spaCy: '200' → '200'
+			SudachiPy: '200' → '200'
+			MeCab: '200' → 'None'
+
+Indices 244-247
+	Text: 'およそ'
+		Span (244, 247):
+			MeCab: 'およそ' → '凡そ'
+			spaCy: 'およそ' → 'およそ'
+			SudachiPy: 'およそ' → 'およそ'
+
+Indices 247-249
+	Text: '1万'
+		Span (247, 248):
+			MeCab: '1' → 'None'
+			Janome: '1' → '1'
+		Span (247, 249):
+			spaCy: '1万' → '1万'
+			SudachiPy: '1万' → '1万'
+		Span (248, 249):
+			MeCab: '万' → '万'
+			Janome: '万' → '万'
+
+Indices 261-263
+	Text: 'ある'
+		Span (261, 263):
+			spaCy: 'ある' → 'ある'
+			SudachiPy: 'ある' → 'ある'
+			Janome: 'ある' → 'ある'
+			MeCab: 'ある' → '有る'
+
+Indices 273-275
+	Text: 'こと'
+		Span (273, 275):
+			Janome: 'こと' → 'こと'
+			SudachiPy: 'こと' → 'こと'
+			MeCab: 'こと' → '事'
+			spaCy: 'こと' → 'こと'
+
+Indices 276-280
+	Text: '知らせる'
+		Span (276, 278):
+			MeCab: '知ら' → '知る'
+			SudachiPy: '知ら' → '知る'
+			spaCy: '知ら' → '知る'
+		Span (276, 280):
+			Janome: '知らせる' → '知らせる'
+
+Indices 283-286
+	Text: '操縦室'
+		Span (283, 285):
+			Janome: '操縦' → '操縦'
+			MeCab: '操縦' → '操縦'
+			spaCy: '操縦' → '操縦'
+		Span (283, 286):
+			SudachiPy: '操縦室' → '操縦室'
+		Span (285, 286):
+			MeCab: '室' → '室'
+			Janome: '室' → '室'
+			spaCy: '室' → '室'
+
+Indices 289-290
+	Text: 'さ'
+		Span (289, 290):
+			SudachiPy: 'さ' → 'する'
+			MeCab: 'さ' → '為る'
+			Janome: 'さ' → 'する'
+			spaCy: 'さ' → 'する'

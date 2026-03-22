@@ -1,0 +1,197 @@
+*** Overlapping Regions ***
+Number of overlapping regions: 15
+
+Indices 0-4
+	Text: 'みなさん'
+		Span (0, 2):
+			spaCy: みな
+			SudachiPy: みな
+			MeCab: みな
+		Span (0, 4):
+			Janome: みなさん
+		Span (2, 4):
+			spaCy: さん
+			SudachiPy: さん
+			MeCab: さん
+
+Indices 7-17
+	Text: 'シャーロックホームズ'
+		Span (7, 10):
+			SudachiPy: シャー
+			MeCab: シャー
+			spaCy: シャー
+		Span (7, 17):
+			Janome: シャーロックホームズ
+		Span (10, 13):
+			SudachiPy: ロック
+			MeCab: ロック
+			spaCy: ロック
+		Span (13, 17):
+			spaCy: ホームズ
+			SudachiPy: ホームズ
+			MeCab: ホームズ
+
+Indices 25-35
+	Text: 'シャーロックホームズ'
+		Span (25, 31):
+			spaCy: シャーロック
+			MeCab: シャーロック
+		Span (25, 35):
+			SudachiPy: シャーロックホームズ
+			Janome: シャーロックホームズ
+		Span (31, 35):
+			MeCab: ホームズ
+			spaCy: ホームズ
+
+Indices 60-63
+	Text: '小説家'
+		Span (60, 62):
+			spaCy: 小説
+			MeCab: 小説
+			Janome: 小説
+		Span (60, 63):
+			SudachiPy: 小説家
+		Span (62, 63):
+			spaCy: 家
+			MeCab: 家
+			Janome: 家
+
+Indices 63-73
+	Text: 'アーサーコナンドイル'
+		Span (63, 67):
+			Janome: アーサー
+		Span (63, 73):
+			spaCy: アーサーコナンドイル
+			SudachiPy: アーサーコナンドイル
+			MeCab: アーサーコナンドイル
+		Span (67, 70):
+			Janome: コナン
+		Span (70, 73):
+			Janome: ドイル
+
+Indices 74-78
+	Text: '一八五九'
+		Span (74, 75):
+			MeCab: 一
+			Janome: 一
+		Span (74, 78):
+			spaCy: 一八五九
+			SudachiPy: 一八五九
+		Span (75, 76):
+			MeCab: 八
+			Janome: 八
+		Span (76, 77):
+			Janome: 五
+			MeCab: 五
+		Span (77, 78):
+			MeCab: 九
+			Janome: 九
+
+Indices 79-83
+	Text: '一九三〇'
+		Span (79, 80):
+			MeCab: 一
+			Janome: 一
+		Span (79, 83):
+			spaCy: 一九三〇
+			SudachiPy: 一九三〇
+		Span (80, 81):
+			MeCab: 九
+			Janome: 九
+		Span (81, 82):
+			MeCab: 三
+			Janome: 三
+		Span (82, 83):
+			Janome: 〇
+			MeCab: 〇
+
+Indices 156-159
+	Text: '出かけ'
+		Span (156, 157):
+			spaCy: 出
+		Span (156, 159):
+			SudachiPy: 出かけ
+			MeCab: 出かけ
+			Janome: 出かけ
+		Span (157, 159):
+			spaCy: かけ
+
+Indices 185-189
+	Text: 'どんなに'
+		Span (185, 188):
+			spaCy: どんな
+			SudachiPy: どんな
+			MeCab: どんな
+		Span (185, 189):
+			Janome: どんなに
+
+Indices 213-216
+	Text: '世界中'
+		Span (213, 215):
+			MeCab: 世界
+			spaCy: 世界
+		Span (213, 216):
+			SudachiPy: 世界中
+			Janome: 世界中
+		Span (215, 216):
+			spaCy: 中
+			MeCab: 中
+
+Indices 241-244
+	Text: 'まだら'
+		Span (241, 243):
+			Janome: まだ
+		Span (241, 244):
+			spaCy: まだら
+			SudachiPy: まだら
+			MeCab: まだら
+		Span (243, 244):
+			Janome: ら
+
+Indices 249-251
+	Text: '六十'
+		Span (249, 250):
+			Janome: 六
+		Span (249, 251):
+			SudachiPy: 六十
+			spaCy: 六十
+			MeCab: 六十
+		Span (250, 251):
+			Janome: 十
+
+Indices 297-300
+	Text: 'にほん'
+		Span (297, 300):
+			SudachiPy: にほん
+			MeCab: にほん
+			spaCy: にほん
+		Span (298, 300):
+			Janome: ほん
+
+Indices 307-311
+	Text: 'vol．'
+		Span (307, 310):
+			Janome: vol
+			MeCab: vol
+		Span (307, 311):
+			spaCy: vol．
+			SudachiPy: vol．
+		Span (310, 311):
+			MeCab: ．
+
+Indices 314-319
+	Text: '大修館書店'
+		Span (314, 316):
+			spaCy: 大修
+			SudachiPy: 大修
+			MeCab: 大修
+		Span (314, 319):
+			Janome: 大修館書店
+		Span (316, 317):
+			spaCy: 館
+			SudachiPy: 館
+			MeCab: 館
+		Span (317, 319):
+			MeCab: 書店
+			SudachiPy: 書店
+			spaCy: 書店

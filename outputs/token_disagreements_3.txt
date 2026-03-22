@@ -1,0 +1,171 @@
+*** Overlapping Regions ***
+Number of overlapping regions: 13
+
+Indices 5-9
+	Text: '和歌山県'
+		Span (5, 8):
+			MeCab: 和歌山
+			Janome: 和歌山
+			spaCy: 和歌山
+		Span (5, 9):
+			SudachiPy: 和歌山県
+		Span (8, 9):
+			spaCy: 県
+			MeCab: 県
+			Janome: 県
+
+Indices 33-36
+	Text: '旅客機'
+		Span (33, 35):
+			MeCab: 旅客
+			spaCy: 旅客
+		Span (33, 36):
+			SudachiPy: 旅客機
+			Janome: 旅客機
+		Span (35, 36):
+			MeCab: 機
+			spaCy: 機
+
+Indices 37-41
+	Text: '関西空港'
+		Span (37, 39):
+			Janome: 関西
+			spaCy: 関西
+			MeCab: 関西
+		Span (37, 41):
+			SudachiPy: 関西空港
+		Span (39, 41):
+			spaCy: 空港
+			MeCab: 空港
+			Janome: 空港
+
+Indices 101-105
+	Text: '知らせる'
+		Span (101, 103):
+			SudachiPy: 知ら
+			MeCab: 知ら
+			spaCy: 知ら
+		Span (101, 105):
+			Janome: 知らせる
+
+Indices 119-126
+	Text: '運輸安全委員会'
+		Span (119, 121):
+			spaCy: 運輸
+			MeCab: 運輸
+			Janome: 運輸
+		Span (119, 126):
+			SudachiPy: 運輸安全委員会
+		Span (121, 123):
+			MeCab: 安全
+			Janome: 安全
+			spaCy: 安全
+		Span (123, 125):
+			MeCab: 委員
+			Janome: 委員
+			spaCy: 委員
+		Span (125, 126):
+			spaCy: 会
+			MeCab: 会
+			Janome: 会
+
+Indices 149-154
+	Text: '国土交通省'
+		Span (149, 151):
+			MeCab: 国土
+			Janome: 国土
+			spaCy: 国土
+		Span (149, 154):
+			SudachiPy: 国土交通省
+		Span (151, 153):
+			MeCab: 交通
+			spaCy: 交通
+		Span (151, 154):
+			Janome: 交通省
+		Span (153, 154):
+			MeCab: 省
+			spaCy: 省
+
+Indices 154-158
+	Text: '関西空港'
+		Span (154, 156):
+			spaCy: 関西
+			MeCab: 関西
+			Janome: 関西
+		Span (154, 158):
+			SudachiPy: 関西空港
+		Span (156, 158):
+			spaCy: 空港
+			MeCab: 空港
+			Janome: 空港
+
+Indices 158-161
+	Text: '事務所'
+		Span (158, 160):
+			MeCab: 事務
+			spaCy: 事務
+		Span (158, 161):
+			SudachiPy: 事務所
+			Janome: 事務所
+		Span (160, 161):
+			MeCab: 所
+			spaCy: 所
+
+Indices 174-176
+	Text: '時半'
+		Span (174, 175):
+			spaCy: 時
+			MeCab: 時
+		Span (174, 176):
+			SudachiPy: 時半
+			Janome: 時半
+		Span (175, 176):
+			MeCab: 半
+			spaCy: 半
+
+Indices 226-230
+	Text: '和歌山県'
+		Span (226, 229):
+			spaCy: 和歌山
+			MeCab: 和歌山
+			Janome: 和歌山
+		Span (226, 230):
+			SudachiPy: 和歌山県
+		Span (229, 230):
+			spaCy: 県
+			MeCab: 県
+			Janome: 県
+
+Indices 247-249
+	Text: '1万'
+		Span (247, 248):
+			MeCab: 1
+			Janome: 1
+		Span (247, 249):
+			spaCy: 1万
+			SudachiPy: 1万
+		Span (248, 249):
+			MeCab: 万
+			Janome: 万
+
+Indices 276-280
+	Text: '知らせる'
+		Span (276, 278):
+			SudachiPy: 知ら
+			MeCab: 知ら
+			spaCy: 知ら
+		Span (276, 280):
+			Janome: 知らせる
+
+Indices 283-286
+	Text: '操縦室'
+		Span (283, 285):
+			spaCy: 操縦
+			MeCab: 操縦
+			Janome: 操縦
+		Span (283, 286):
+			SudachiPy: 操縦室
+		Span (285, 286):
+			Janome: 室
+			spaCy: 室
+			MeCab: 室
